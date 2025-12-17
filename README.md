@@ -1,6 +1,6 @@
 # Hi 👋 I'm Abhishek Vishwakarma
 
-## 🚀 Data Science & Analytics | Machine Learning | BI
+## 🚀 Data Science & Data Analytics | Machine Learning | BI
 
 Aspiring **Data Science and Analytics professional** with strong hands-on experience in **Python, SQL, Machine Learning, and Power BI**. I enjoy turning raw data into meaningful insights through analytics pipelines, predictive models, and interactive dashboards. Passionate about solving real-world business problems using data-driven approaches.
 
